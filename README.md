@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Harutoshi Okumura (Josh) :hong_kong: :japan:
+# 👋 Hello, I'm Harutoshi Okumura :hong_kong: :japan:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harutoshi-okumura/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/HarutoshiOkumura)
