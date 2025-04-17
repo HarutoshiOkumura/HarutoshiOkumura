@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harutoshi-okumura/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/HarutoshiOkumura)
 
-💡 I’m a rising junior at Emory University studying **Computer Science** & **Applied Mathematics & Statistics**.  
+💡 I’m a Junior at Emory University studying **Computer Science** & **Applied Mathematics & Statistics**.  
 🧠 Passionate about building intelligent systems that make learning and knowledge-sharing more accessible.  
-🌱 Currently researching LLMs and adaptive learning, building full-stack systems, and optimizing learning pipelines.
+🌱 Currently researching LLMs in political text and adaptive learning, building full-stack systems, and optimizing learning pipelines.
 
 ---
 
