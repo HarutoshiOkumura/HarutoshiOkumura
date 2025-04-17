@@ -51,7 +51,7 @@ Majoring in **Computer Science** & **Applied Mathematics and Statistics**
 - :moneybag: Director of Finance @ Atlas Consulting | VP Technology @ Alpha Kappa Psi  
 - :mortar_board: Founder @ Emory Computer Change++  
 - :books: Into historical linguistics, consulting, sketching, and Warring States history  
-- :earth_asia: Native in :cantonese:, fluent in :us: English, conversational in :jp: Japanese and :cn: Mandarin
+- :earth_asia: Native in :hk: Cantonese, fluent in :us: English, conversational in :jp: Japanese and :cn: Mandarin
 
 ---
 
@@ -60,3 +60,5 @@ Majoring in **Computer Science** & **Applied Mathematics and Statistics**
 - :email: HOkumura032@gmail.com  
 - :octocat: [github.com/HarutoshiOkumura](https://github.com/HarutoshiOkumura)  
 - :link: [LinkedIn](https://www.linkedin.com/in/harutoshi-okumura/)
+
+![](https://komarev.com/ghpvc/?username=HarutoshiOkumura&color=red)
