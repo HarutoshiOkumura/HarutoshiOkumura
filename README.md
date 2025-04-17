@@ -61,4 +61,4 @@ Majoring in **Computer Science** & **Applied Mathematics and Statistics**
 - :octocat: [github.com/HarutoshiOkumura](https://github.com/HarutoshiOkumura)  
 - :link: [LinkedIn](https://www.linkedin.com/in/harutoshi-okumura/)
 
-![](https://komarev.com/ghpvc/?username=HarutoshiOkumura&color=red)
+
