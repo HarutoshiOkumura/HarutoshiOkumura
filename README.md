@@ -1,58 +1,62 @@
-# 👋 Hey there, I'm Harutoshi Okumura  🇭🇰 || 🇯🇵
+# 👋 Hello, I'm Harutoshi Okumura (Josh) :hong_kong: :japan:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harutoshi-okumura/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/HarutoshiOkumura)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/HarutoshiOkumura)
 
-💡 I’m a Junior at Emory University studying **Computer Science** & **Applied Mathematics & Statistics**.  
-🧠 Passionate about building intelligent systems that make learning and knowledge-sharing more accessible.  
-🌱 Currently researching LLMs in political text and adaptive learning, building full-stack systems, and optimizing learning pipelines.
+:school: **Emory University**  
+Majoring in **Computer Science** & **Applied Mathematics and Statistics**  
+:books: Interested in building intelligent systems that transform how we learn and process information.
 
 ---
 
-## 🚀 Tech Stack & Tools
+## :rocket: Tech Stack
 
 **Languages**  
-🟨 Java • 🐍 Python • 🟦 TypeScript • ⚛️ JavaScript • 📘 C++ • 🌐 HTML • 🎨 CSS • 📊 R • 📈 MatLab • 📜 LaTeX • 🌀 Go • 📱 Kotlin
+:coffee: Java • :snake: Python • :blue_book: TypeScript • :atom_symbol: JavaScript • :desktop_computer: C++  
+:globe_with_meridians: HTML/CSS • :chart_with_upwards_trend: R • :bar_chart: MATLAB • :scroll: LaTeX • :cyclone: Go • :iphone: Kotlin
 
-**Frameworks & Libraries**  
-🧠 PyTorch • 🧪 TensorFlow • 🧰 Docker • ⚛ React • 🧭 Next.js • 🔧 Node.js • 🧾 OpenAI API • 🧬 YOLO • 📖 NLTK
+**Frameworks & Tools**  
+:brain: PyTorch • :test_tube: TensorFlow • :whale: Docker • :recycle: React/Next.js • :package: Node.js • :robot: OpenAI • :books: NLTK
 
 **Databases & Cloud**  
-🐬 MySQL • 🐘 PostgreSQL • 🍃 MongoDB • ☁️ AWS • 🌐 Google Cloud • 🧮 GraphQL
+:elephant: PostgreSQL • :leaves: MongoDB • :cloud: AWS • :globe_with_meridians: Google Cloud • :electric_plug: GraphQL
 
 ---
 
-## 🔭 What I'm Working On
+## :hammer_and_wrench: Current Work
 
-- 🧪 **LLM-powered contradiction detection** in political debates using Qdrant, GIST-large embeddings, and symbolic logic  
-- 🧠 **Adaptive learning systems** using ANKI-inspired models, LangChain pipelines, and CNN fine-tuning with PyTorch  
-- 🩺 **Chatbot systems for pediatric training**, deployed with Flask, Node.js, OpenAI, and MongoDB on AWS  
-- 📈 Improving flashcard accuracy using scheduling algorithms and formal logic-driven MCQ generation
-
----
-
-## 📚 Projects & Publications
-
-**🗳️ Contradiction Detection in Presidential Debates**  
-> Combines **BERTopic**, **Qdrant**, **Symbolic AI**, and LLMs to detect contradictions in political discourse.
-
-**🧠 Adaptive Flashcard Generation System**  
-> Built with **React**, **Spring Boot**, **MongoDB**, and **AWS**, improved flashcard quality and user retention.
-
-**🏥 Emory Pediatric Airway Chatbot**  
-> Deployed a chatbot using **Flask**, integrated with **OpenAI API**, supporting over 700+ trainees.
+- :mag: **Contradiction detection** in political debates using LLMs, Qdrant, and Symbolic AI  
+- :thought_balloon: **Adaptive flashcard systems** using ANKI-like memory algorithms and LangChain pipelines  
+- :hospital: **Pediatric chatbot app** for Emory’s hospital, reducing trainee time by 80%  
+- :chart_with_upwards_trend: Enhancing flashcard curation with formal logic and dynamic scheduling algorithms
 
 ---
 
-## 🧩 More About Me
+## :notebook: Highlight Projects
 
-- 🎻 First Violin @ Emory Symphony Orchestra  
-- 💼 Director @ Atlas Consulting Group | VP @ Alpha Kappa Psi  
-- 📖 Into Warring State History (CN & JP), consulting, sketching, and multilingual etymology  
-- 🌍 Languages: 🇭🇰 Cantonese (Native), 🇯🇵 Japanese (Conversational), 🇨🇳 Mandarin (Conversational), 🇺🇸 English (Native)
+**:ballot_box: Political Contradiction Detection**  
+:bookmark_tabs: Combines **BERTopic**, **GIST Embeddings**, and **Symbolic Logic** to detect contradiction in speeches
+
+**:bulb: Flashcard Curation Engine**  
+:hammer: Built using **React**, **Spring Boot**, and **AWS**, increasing flashcard quality and study retention
+
+**:speech_balloon: Emory Pediatric Chatbot**  
+:rocket: Scaled with Flask + OpenAI + MongoDB on AWS to serve over 700 pediatric trainees
 
 ---
 
-📬 Want to collaborate, build, or brainstorm ideas? Let’s connect!  
-📧 HOkumura032@gmail.com  
-🔗 [github.com/HarutoshiOkumura](https://github.com/HarutoshiOkumura)
+## :wave: About Me
+
+- :violin: First Violin @ Emory Symphony Orchestra  
+- :moneybag: Director of Finance @ Atlas Consulting | VP Technology @ Alpha Kappa Psi  
+- :mortar_board: Founder @ Emory Computer Change++  
+- :books: Into historical linguistics, consulting, sketching, and Warring States history  
+- :earth_asia: Native in :cantonese:, fluent in :us: English, conversational in :jp: Japanese and :cn: Mandarin
+
+---
+
+## :email: Reach Out
+
+- :email: HOkumura032@gmail.com  
+- :octocat: [github.com/HarutoshiOkumura](https://github.com/HarutoshiOkumura)  
+- :link: [LinkedIn](https://www.linkedin.com/in/harutoshi-okumura/)
