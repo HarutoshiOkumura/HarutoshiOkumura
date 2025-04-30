@@ -49,7 +49,7 @@ Majoring in **Computer Science** & **Applied Mathematics and Statistics**
 
 - :violin: First Violin @ Emory Symphony Orchestra  
 - :moneybag: Director of Finance @ Atlas Consulting | VP Technology @ Alpha Kappa Psi  
-- :mortar_board: Founder @ Emory Computer Change++  
+- :mortar_board: Founding Member @ Emory Computer Change++  
 - :books: Into historical linguistics, consulting, sketching, and Warring States history  
 - :earth_asia: Native in :hk: Cantonese, fluent in :us: English, conversational in :jp: Japanese and :cn: Mandarin
 
