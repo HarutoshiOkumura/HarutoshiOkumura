@@ -1,64 +1,23 @@
-# 👋 Hello, I'm Harutoshi Okumura :hong_kong: :japan:
+__Hi, this is Haru ₍^. .^₎⟆__
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harutoshi-okumura/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/HarutoshiOkumura)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)
 
-:school: **Emory University**  
-Majoring in **Computer Science** & **Applied Mathematics and Statistics**  
-:books: Interested in building intelligent systems that transform how we learn and process information.
+I'm interested in world models, RL environments, and distributed infra 
 
----
+I'm currently a 2nd-year MS student at Emory University (MSCS) 
 
-## :rocket: Tech Stack
+Currently
+- Research Engineer at [Causal Dynamics Lab](https://causaldynamics.com/) 
+- Building [Agentic Knowledge Vault](https://github.com/HarutoshiOkumura/Agentic_Knowledge_Vault)
+- Researching representation learning that improves long-term agent memory
 
-**Languages**  
-:coffee: Java • :snake: Python • :blue_book: TypeScript • :atom_symbol: JavaScript • :desktop_computer: C++  
-:globe_with_meridians: HTML/CSS • :chart_with_upwards_trend: R • :bar_chart: MATLAB • :scroll: LaTeX • :cyclone: Go • :iphone: Kotlin
-
-**Frameworks & Tools**  
-:brain: PyTorch • :test_tube: TensorFlow • :whale: Docker • :recycle: React/Next.js • :package: Node.js • :robot: OpenAI • :books: NLTK
-
-**Databases & Cloud**  
-:elephant: PostgreSQL • :leaves: MongoDB • :cloud: AWS • :globe_with_meridians: Google Cloud • :electric_plug: GraphQL
-
----
-
-## :hammer_and_wrench: Current Work
-
-- :mag: **Contradiction detection** in political debates using LLMs, Qdrant, and Symbolic AI  
-- :thought_balloon: **Adaptive flashcard systems** using ANKI-like memory algorithms and LangChain pipelines  
-- :hospital: **Pediatric chatbot app** for Emory’s hospital, reducing trainee time by 80%  
-- :chart_with_upwards_trend: Enhancing flashcard curation with formal logic and dynamic scheduling algorithms
-
----
-
-## :notebook: Highlight Projects
-
-**:ballot_box: Political Contradiction Detection**  
-:bookmark_tabs: Combines **BERTopic**, **GIST Embeddings**, and **Symbolic Logic** to detect contradiction in speeches
-
-**:bulb: Flashcard Curation Engine**  
-:hammer: Built using **React**, **Spring Boot**, and **AWS**, increasing flashcard quality and study retention
-
-**:speech_balloon: Emory Pediatric Chatbot**  
-:rocket: Scaled with Flask + OpenAI + MongoDB on AWS to serve over 700 pediatric trainees
-
----
-
-## :wave: About Me
-
-- :violin: First Violin @ Emory Symphony Orchestra  
-- :moneybag: Director of Finance @ Atlas Consulting | VP Technology @ Alpha Kappa Psi  
-- :mortar_board: Founding Member @ Emory Computer Change++  
-- :books: Into historical linguistics, consulting, sketching, and Warring States history  
-- :earth_asia: Native in :hk: Cantonese, fluent in :us: English, conversational in :jp: Japanese and :cn: Mandarin
-
----
-
-## :email: Reach Out
-
-- :email: HOkumura032@gmail.com  
-- :octocat: [github.com/HarutoshiOkumura](https://github.com/HarutoshiOkumura)  
-- :link: [LinkedIn](https://www.linkedin.com/in/harutoshi-okumura/)
+Previously, I was a
+- SWE Intern at [Google](https://www.google.com/)
+- Technical Advisor Intern at [ScaleAI](https://scale.com/)
 
 
