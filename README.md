@@ -1,11 +1,5 @@
 __Hi, this is Haru ₍^. .^₎⟆__
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat-square)
+[![Skills](https://skillicons.dev/icons?i=go,cpp,c,py,ts,java)](https://skillicons.dev)
 
 I'm interested in world models, RL environments, and distributed infra 
 
