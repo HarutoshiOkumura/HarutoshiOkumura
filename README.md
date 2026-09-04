@@ -1,6 +1,14 @@
 __Hi, this is Haru ₍^. .^₎⟆__
 
-[![Skills](https://skills.syvixor.com/api/icons?i=go,cpp,py,c,ts,java)](https://github.com/syvixor/skills-icons)
+<p>
+  <img alt="Go" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />&nbsp;&nbsp;
+  <img alt="C++" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+  <img alt="Python" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="C" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;&nbsp;
+  <img alt="TypeScript" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img alt="Java" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>
+
 
 I'm interested in world models, RL environments, and distributed infra 
 
