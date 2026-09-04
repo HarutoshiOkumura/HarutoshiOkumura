@@ -1,5 +1,6 @@
 __Hi, this is Haru ₍^. .^₎⟆__
-[![Skills](https://skillicons.dev/icons?i=go,cpp,c,py,ts,java)](https://skillicons.dev)
+
+[![Skills](https://skills.syvixor.com/api/icons?i=go,cpp,py,c,ts,java)](https://github.com/syvixor/skills-icons)
 
 I'm interested in world models, RL environments, and distributed infra 
 
